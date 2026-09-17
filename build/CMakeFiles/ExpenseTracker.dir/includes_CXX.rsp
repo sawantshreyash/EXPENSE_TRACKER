@@ -1,1 +1,1 @@
--IC:/Users/Shreyash/Desktop/Expense_Tracker/include -isystem C:/Qt/6.11.2/mingw_64/include/QtCore -isystem C:/Qt/6.11.2/mingw_64/include -isystem "C:/Qt/6.11.2/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.11.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.2/mingw_64/include/QtGui
+-ID:/Expense_Tracker/include -isystem C:/Qt/6.11.2/mingw_64/include/QtCore -isystem C:/Qt/6.11.2/mingw_64/include -isystem "C:/Qt/6.11.2/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.11.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.2/mingw_64/include/QtGui -isystem C:/msys64/ucrt64/include

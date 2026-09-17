@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Shreyash/Desktop/Expense_Tracker/main.cpp" "CMakeFiles/ExpenseTracker.dir/main.cpp.obj" "gcc" "CMakeFiles/ExpenseTracker.dir/main.cpp.obj.d"
-  "C:/Users/Shreyash/Desktop/Expense_Tracker/src/ExpenseManager.cpp" "CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj" "gcc" "CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj.d"
-  "C:/Users/Shreyash/Desktop/Expense_Tracker/src/FileManager.cpp" "CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj" "gcc" "CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj.d"
+  "D:/Expense_Tracker/main.cpp" "CMakeFiles/ExpenseTracker.dir/main.cpp.obj" "gcc" "CMakeFiles/ExpenseTracker.dir/main.cpp.obj.d"
+  "D:/Expense_Tracker/src/ExpenseManager.cpp" "CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj" "gcc" "CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj.d"
+  "D:/Expense_Tracker/src/FileManager.cpp" "CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj" "gcc" "CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Shreyash\Desktop\Expense_Tracker
+CMAKE_SOURCE_DIR = D:\Expense_Tracker
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Shreyash\Desktop\Expense_Tracker\build
+CMAKE_BINARY_DIR = D:\Expense_Tracker\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ExpenseTracker.dir/depend.make
@@ -73,48 +73,48 @@ CMakeFiles/ExpenseTracker.dir/codegen:
 
 CMakeFiles/ExpenseTracker.dir/main.cpp.obj: CMakeFiles/ExpenseTracker.dir/flags.make
 CMakeFiles/ExpenseTracker.dir/main.cpp.obj: CMakeFiles/ExpenseTracker.dir/includes_CXX.rsp
-CMakeFiles/ExpenseTracker.dir/main.cpp.obj: C:/Users/Shreyash/Desktop/Expense_Tracker/main.cpp
+CMakeFiles/ExpenseTracker.dir/main.cpp.obj: D:/Expense_Tracker/main.cpp
 CMakeFiles/ExpenseTracker.dir/main.cpp.obj: CMakeFiles/ExpenseTracker.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Shreyash\Desktop\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ExpenseTracker.dir/main.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExpenseTracker.dir/main.cpp.obj -MF CMakeFiles\ExpenseTracker.dir\main.cpp.obj.d -o CMakeFiles\ExpenseTracker.dir\main.cpp.obj -c C:\Users\Shreyash\Desktop\Expense_Tracker\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ExpenseTracker.dir/main.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExpenseTracker.dir/main.cpp.obj -MF CMakeFiles\ExpenseTracker.dir\main.cpp.obj.d -o CMakeFiles\ExpenseTracker.dir\main.cpp.obj -c D:\Expense_Tracker\main.cpp
 
 CMakeFiles/ExpenseTracker.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ExpenseTracker.dir/main.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shreyash\Desktop\Expense_Tracker\main.cpp > CMakeFiles\ExpenseTracker.dir\main.cpp.i
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Expense_Tracker\main.cpp > CMakeFiles\ExpenseTracker.dir\main.cpp.i
 
 CMakeFiles/ExpenseTracker.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ExpenseTracker.dir/main.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shreyash\Desktop\Expense_Tracker\main.cpp -o CMakeFiles\ExpenseTracker.dir\main.cpp.s
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Expense_Tracker\main.cpp -o CMakeFiles\ExpenseTracker.dir\main.cpp.s
 
 CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj: CMakeFiles/ExpenseTracker.dir/flags.make
 CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj: CMakeFiles/ExpenseTracker.dir/includes_CXX.rsp
-CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj: C:/Users/Shreyash/Desktop/Expense_Tracker/src/FileManager.cpp
+CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj: D:/Expense_Tracker/src/FileManager.cpp
 CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj: CMakeFiles/ExpenseTracker.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Shreyash\Desktop\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj -MF CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.obj.d -o CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.obj -c C:\Users\Shreyash\Desktop\Expense_Tracker\src\FileManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.obj -MF CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.obj.d -o CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.obj -c D:\Expense_Tracker\src\FileManager.cpp
 
 CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shreyash\Desktop\Expense_Tracker\src\FileManager.cpp > CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.i
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Expense_Tracker\src\FileManager.cpp > CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.i
 
 CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ExpenseTracker.dir/src/FileManager.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shreyash\Desktop\Expense_Tracker\src\FileManager.cpp -o CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.s
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Expense_Tracker\src\FileManager.cpp -o CMakeFiles\ExpenseTracker.dir\src\FileManager.cpp.s
 
 CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj: CMakeFiles/ExpenseTracker.dir/flags.make
 CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj: CMakeFiles/ExpenseTracker.dir/includes_CXX.rsp
-CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj: C:/Users/Shreyash/Desktop/Expense_Tracker/src/ExpenseManager.cpp
+CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj: D:/Expense_Tracker/src/ExpenseManager.cpp
 CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj: CMakeFiles/ExpenseTracker.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Shreyash\Desktop\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj -MF CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.obj.d -o CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.obj -c C:\Users\Shreyash\Desktop\Expense_Tracker\src\ExpenseManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.obj -MF CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.obj.d -o CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.obj -c D:\Expense_Tracker\src\ExpenseManager.cpp
 
 CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shreyash\Desktop\Expense_Tracker\src\ExpenseManager.cpp > CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.i
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Expense_Tracker\src\ExpenseManager.cpp > CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.i
 
 CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ExpenseTracker.dir/src/ExpenseManager.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shreyash\Desktop\Expense_Tracker\src\ExpenseManager.cpp -o CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.s
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Expense_Tracker\src\ExpenseManager.cpp -o CMakeFiles\ExpenseTracker.dir\src\ExpenseManager.cpp.s
 
 # Object files for target ExpenseTracker
 ExpenseTracker_OBJECTS = \
@@ -136,7 +136,7 @@ ExpenseTracker.exe: ExpenseTracker.exe.manifest
 ExpenseTracker.exe: CMakeFiles/ExpenseTracker.dir/linkLibs.rsp
 ExpenseTracker.exe: CMakeFiles/ExpenseTracker.dir/objects1.rsp
 ExpenseTracker.exe: CMakeFiles/ExpenseTracker.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Shreyash\Desktop\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ExpenseTracker.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Expense_Tracker\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ExpenseTracker.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ExpenseTracker.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -148,6 +148,6 @@ CMakeFiles/ExpenseTracker.dir/clean:
 .PHONY : CMakeFiles/ExpenseTracker.dir/clean
 
 CMakeFiles/ExpenseTracker.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Shreyash\Desktop\Expense_Tracker C:\Users\Shreyash\Desktop\Expense_Tracker C:\Users\Shreyash\Desktop\Expense_Tracker\build C:\Users\Shreyash\Desktop\Expense_Tracker\build C:\Users\Shreyash\Desktop\Expense_Tracker\build\CMakeFiles\ExpenseTracker.dir\DependInfo.cmake "--color=$(COLOR)" ExpenseTracker
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Expense_Tracker D:\Expense_Tracker D:\Expense_Tracker\build D:\Expense_Tracker\build D:\Expense_Tracker\build\CMakeFiles\ExpenseTracker.dir\DependInfo.cmake "--color=$(COLOR)" ExpenseTracker
 .PHONY : CMakeFiles/ExpenseTracker.dir/depend
 

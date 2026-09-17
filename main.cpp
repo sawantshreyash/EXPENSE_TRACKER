@@ -166,7 +166,7 @@ private:
         );
 
         connect(
-            editButton,
+            editButton,P
             &QPushButton::clicked,
             this,
             [this]()
